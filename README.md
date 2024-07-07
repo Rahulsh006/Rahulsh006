@@ -25,5 +25,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsh006&show_icons=true&locale=en&layout=compact" alt="rahulsh006" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rahulsh006&theme=dark" alt="GitHub Streak" /></a>
 
-### ✍️ Quote of the Day.
+### ✍️ Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
