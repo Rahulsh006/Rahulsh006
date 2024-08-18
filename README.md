@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAHUL S H !</h1>
 
-<h3 align="center">Passionate Software Developer</h3>
+
 
 - 🔭 I’m currently working as **Associate Software Engineer**
 
