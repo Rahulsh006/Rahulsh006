@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as **Associate Software Engineer**
+- 🔭 I’m currently working as **Associate Software Engineer @EcsFin|US based FinTech Company**
 
 - 👨‍💻 All of my projects are available at [https://rahulsh006.github.io/Rahul-S-H-/](https://rahulsh006.github.io/Rahul-S-H-/)
 
