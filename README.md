@@ -5,7 +5,6 @@
 - 🔭 I’m currently working as **Associate Software Engineer @EcsFin | US based FinTech Company**
 
 - 👨‍💻 All of my projects are available at [https://rahulsh006.github.io/Rahul-S-H-/](https://rahulsh006.github.io/Rahul-S-H-/)
-- MY PORTFOLIO - https://rahulsh006.github.io/Rahul-S-H-/
 
 - 📫 How to reach me **rahulhari1252@gmail.com**
 
