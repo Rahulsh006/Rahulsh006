@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rahulsh006.github.io/Rahul-S-H-/](https://rahulsh006.github.io/Rahul-S-H-/)
 
-- 💬 Ask me about **Java,Springboot microservices**
+- 💬 Ask me about **Java, Springboot microservices**
 
 - 📫 How to reach me **rahulhari1252@gmail.com**
 
