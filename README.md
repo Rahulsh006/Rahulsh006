@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul S H</h1>
-<h3 align="center">Associate Software Engineer @ECSFin | US based Fintech Company</h3>
+<h3 align="center">Software Engineer @ECSFin | US based Fintech Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsh006&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsh006" /> </p>
 
